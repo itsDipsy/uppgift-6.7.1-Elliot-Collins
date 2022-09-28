@@ -1,6 +1,7 @@
 #slogan,
 nav,
 #main,
+footer,
 #logo {
     margin: 20px auto 0px auto;
 }
@@ -66,4 +67,15 @@ nav ul li a {
 
 p {
     font-size: 18px;
+}
+
+footer {
+    border-top: 1px solid gray;
+    text-align: center;
+    width: 50vw;
+    margin-bottom: 20px;
+}
+
+#footer-text {
+    margin-top: 20px;
 }
