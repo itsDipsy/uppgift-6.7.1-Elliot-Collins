@@ -17,26 +17,26 @@ nav {
 nav ul li {
     display: inline-block;
     list-style: none;
-    width: 10vw;
+    width: 7vw;
 }
 
 nav ul li a {
     text-decoration: underline dotted;
-    color: rgb(0, 0, 0);
+    color: rgb(72, 72, 72);
     font-size: 20px;
 }
 
 
 #slogan {
-    width: 50vw;
+    width: 45vw;
     height: 15vh;
     text-align: center;
     background-color: rgb(249, 249, 209);
     font-size: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-top: 40px;
-    color: rgb(244, 205, 133);
-
+    color: rgb(177, 160, 127);
+    border-radius: 5px;
 }
 
 
